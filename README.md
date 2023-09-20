@@ -7,7 +7,7 @@
 
 4°Passo: Dentro desse arquivo cole o código que você copiou do outro arquivo
 
-5°Passo: Modifique a linha 5, troque o texto que está dentro do parênteses('Caike Henry Firmino Felipe!') pelo texto que você escolher(não esqueça de deixar dentro das aspas)
+5°Passo: Modifique a linha 7, troque o texto que está dentro do parênteses('Caike Henry Firmino Felipe!') pelo texto que você escolher(não esqueça de deixar dentro das aspas)
 
 6°Passo: Salve o arquivo
 
